@@ -2,6 +2,8 @@
 
 VroomMania is a modded version of the TempleOS game Vroom writtin in HolyC
 
+![VroomMania running in TempleOS](https://github.com/KamilPietnicki/VroomMania/blob/main/VroomMania.png?raw=true)
+
 ## Current features:
 
  - 60fps thanks to a kernel mod
